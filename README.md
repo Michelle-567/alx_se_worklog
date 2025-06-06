@@ -40,7 +40,7 @@ Welcome to my monthly reflection as part of the **ALX Software Engineering** jou
 ---
 
 📌 **Let’s Connect:**  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-📁 [Python Projects Repo](https://github.com/yourusername/alx_be_python)  
+🔗 [LinkedIn](https://linkedin.com/in/michelle-ndirangu-219324206)  
+📁 [Python Projects Repo](https://github.com/Michelle-567/alx_be_python)  
 📌 Hashtags: `#ALX_SE` `#ALX_BE` `#Python` `#GitHub` `#CodingJourney` `@alx_africa`
 
